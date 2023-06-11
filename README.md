@@ -9,8 +9,6 @@ I am currently exploring field of backend development, also I have some knowledg
 
 - 🌱 I’m currently learning django and django rest framework
 
-- 👯 I’m looking to collaborate on django based open source projects
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nandan26](https://github.com/Nandan26)
 
 - 💬 Ask me about **Python , Java, Machine Learning**
